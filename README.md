@@ -15,7 +15,7 @@ python3 -m pip install LogColorHelper
 #### 2. Import
 
 ```python
-import LogColorHelper
+import LogColorHelper.LogColorHelper as LogColorHelper
 ```
 
 #### 2. Use

@@ -5,7 +5,7 @@
 @Time    : 2022/6/13 15:04
 @desc：  : 
 """
-import LogColorHelper
+import LogColorHelper.LogColorHelper as LogColorHelper
 
 if __name__ == '__main__':
     LogColorHelper.yellow('yellow log')
