@@ -5,7 +5,7 @@
 @Time    : 2022/6/13 15:04
 @desc：  : 
 """
-from ihongqiqu.LogColorHelper import LogColorHelper
+from LogColorHelper import LogColorHelper
 
 if __name__ == '__main__':
     LogColorHelper.yellow('yellow log')
